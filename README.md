@@ -1,6 +1,3 @@
-# Kaliour
-Bust
+## Kaliour - CaligaryHacks 2019
 
-## CaligaryHacks 2019
-
-Kaliour - Computer Vision app that identifies sleep deprivation
+Computer Vision app that identifies sleep deprivation
